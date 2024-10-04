@@ -1,0 +1,16 @@
+[
+    {
+        "id": "US_001",
+        "name": "Sourabh",
+        "email": "Sourabh",
+        "UserType": "Super User",
+        "password": "$2b$12$wsvEQKoLYXYMTZelbsLfSua9/umoIv7lG5Mjbk0lCj2rmTntICxga"
+    },
+    {
+        "id": "US_002",
+        "name": "Ayush",
+        "email": "Ayush",
+        "UserType": "Super User",
+        "password": "$2b$12$8A0ZECe7js6DLPBfakYUgeuiuNcbsDHoTgNgZYyOoNbop0kQSQiPO"
+    }
+]
